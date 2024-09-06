@@ -118,15 +118,13 @@ This notebook provides an in-depth analysis of Bitcoin’s stock price from 2019
 
 ## Overview
 
-![Stock Market Image](assets/pic/stock-market.jpg)
-
-### Author: Your Name / 2024
+### Author: Leo Suzuki / 2024
 
 This project involves predicting stock prices for the next 30 days using Long Short-Term Memory (LSTM) and Convolutional Neural Networks (CNN). The dataset consists of historical stock prices, and the models are evaluated based on performance metrics and prediction accuracy.
 
 - **Data Source**: [Stock Price Data](https://example.com/stock-price-data)
 
-## Data Overview
+## Data Overview (training data 2021-2021)
 
 - **Historical Stock Prices**: Data includes daily stock prices with features such as adjusted closing prices.
 
